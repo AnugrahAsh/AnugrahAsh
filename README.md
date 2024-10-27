@@ -26,6 +26,9 @@ Files Included: home.html, pf.css, resume.pdf, and supporting images.
 Purpose: To showcase my skills, projects, and background in a single, easily navigable location.
 View Repository
 
+## Achivements
+[![An image of @anugrahash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anugrahash)](https://holopin.io/@anugrahash)
+
 ## 📈 GitHub Stats
 ![AnugrahAsh's Stats](https://github-readme-stats.vercel.app/api?username=AnugrahAsh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 

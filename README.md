@@ -27,6 +27,8 @@ Purpose: To showcase my skills, projects, and background in a single, easily nav
 View Repository
 
 ## Achivements
+* Hacktoberfest11 2024
+  
 [![An image of @anugrahash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anugrahash)](https://holopin.io/@anugrahash)
 
 ## 📈 GitHub Stats

@@ -36,5 +36,5 @@ View Repository
 
 
 ## 📞 Contact Me
-If you’d like to connect, feel free to reach out via email or follow me on LinkedIn. Looking forward to collaborating!
+If you’d like to connect, feel free to reach out via email anuash130c@gmail.com or follow me on LinkedIn. Looking forward to collaborating!
 

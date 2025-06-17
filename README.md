@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate software developer with interes
 * 🧑‍💻I am a Web Developer
 
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,express,react,nodejs,tailwind,java,c,cpp,github,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,mongodb,express,react,nodejs,tailwind,java,c,cpp,github,netlify,vercel)](https://skillicons.dev)
 
 
 ## Projects

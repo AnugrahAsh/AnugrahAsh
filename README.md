@@ -1,41 +1,97 @@
-👋 Hi, I'm Anugrah Sharma!
-Welcome to my GitHub profile! I’m a passionate software developer with interests in web development, and technical design. I enjoy exploring new technologies and building projects that push the limits of my skills.
+## 👋 Hi, I'm Anugrah Sharma
 
-## About Me
-* 🧑‍🎓Student at Medicaps University Indore
-* ♟️Loves To Play Chess
-* 🧑‍💻I am a Web Developer
+Welcome to my GitHub.
 
-## Tech Stack:
+I build things on the web that look clean, feel smooth, and actually work.  
+Focused on development + design, not just one of them.
+
+---
+
+## 🧑‍💻 About Me
+- 🧑‍🎓 Student at MediCaps University, Indore  
+- ♟️ Into chess (strategy > luck)  
+- 💻 Web Developer  
+- 🎨 Strong in UI/UX and technical design  
+- ⚡ I like building things that feel *intentional*, not just functional  
+
+---
+
+## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,mongodb,express,react,nodejs,tailwind,figma,java,c,cpp,github,netlify,vercel,postman)](https://skillicons.dev)
 
+---
 
-## Projects
-1. Fianchetto ♟️
-A chess web application designed to offer a seamless online chess experience with a live chat for players. Here’s what’s inside:
+## 📂 Projects
 
-Tech Stack: JavaScript, HTML, CSS, and server-side functionality.
-Features: Real-time chat visible only to players, an intuitive chess interface, and spectator support.
-View Repository
+### ♟️ Fianchetto
+A modern chess platform built to make playing and learning chess more engaging.
 
-2. Portfolio 🌐
-This project contains my personal portfolio site, where you can learn more about my skills, experience, and accomplishments.
+**What it does:**
+- Real-time games with smooth interaction  
+- Player-only live chat  
+- Spectator mode  
+- Focus on learning openings and strategies (not just playing)
 
-Tech Stack: HTML, CSS
-Files Included: home.html, pf.css, resume.pdf, and supporting images.
-Purpose: To showcase my skills, projects, and background in a single, easily navigable location.
-View Repository
+**Tech:** JavaScript, HTML, CSS, backend logic  
 
-## Achivements
-* Hacktoberfest11 2024
-  
-[![An image of @anugrahash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anugrahash)](https://holopin.io/@anugrahash)
+---
+
+### 🌐 Portfolio
+My personal space on the internet.
+
+**What it shows:**
+- My skills and work  
+- My approach to development and design  
+- Resume + project highlights  
+
+**Tech:** HTML, CSS  
+
+---
+
+### 🧠 WitScribe
+A web app that turns YouTube lectures into clean, concise notes.
+
+**Features:**
+- Auto-generated notes (Markdown download)  
+- Read-aloud support  
+- Built-in chatbot for doubts  
+- Subject-wise quizzes  
+- Community Q&A  
+
+**Tech:** React, JavaScript, Tailwind CSS  
+
+---
+
+### 🧩 noodleUI
+A customizable UI component library for developers.
+
+**What makes it different:**
+- Multiple design variations per component  
+- Works with React + plain HTML/Tailwind  
+- Clean, reusable, and flexible  
+
+---
+
+## 🏆 Achievements
+- Hacktoberfest 2024 Participant  
+
+[![Holopin Badges](https://holopin.me/anugrahash)](https://holopin.io/@anugrahash)
+
+---
 
 ## 📈 GitHub Stats
-![AnugrahAsh's Stats](https://github-readme-stats.vercel.app/api?username=AnugrahAsh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AnugrahAsh?cardType=level&preferLogin=false)
 
+---
 
-## 📞 Contact Me
-If you’d like to connect, feel free to reach out via email anuash130c@gmail.com or follow me on LinkedIn [https://www.linkedin.com/in/anu-g-rah]
-Looking forward to collaborating!
+## 📞 Contact
+- 📧 Email: anuash130c@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/anu-g-rah  
 
+---
+
+## ⚡ Final Note
+I don’t just build projects, I build things that represent how I think.
+
+You’ll always find me at your service.  
+A better version if you pay.
